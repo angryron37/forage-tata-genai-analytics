@@ -41,7 +41,7 @@ Ethical Considerations: Analyzing and addressing the potential ethical implicati
 Certificate of Completion
 Upon successful completion of the program, I was awarded a certificate from Forage and Tata Group.
 ## Certificate of Completion
-I've successfully completed the JPMorgan Chase Software Engineering Virtual Internship. You can view my certificate [here](assets\tata-genai-certificate.png).
+I've successfully completed the JPMorgan Chase Software Engineering Virtual Internship. You can view my certificate [here](assets/tata-genai-certificate.png).
 
 
 
