@@ -1,0 +1,7 @@
+=== Key EDA Findings ===
+High-risk customers: 60.8%
+Top delinquency predictor: Missed Payments (r=-0.03)
+
+=== Data Quality Issues ===
+Standardized employment categories: ['Employed' 'Self-Employed' 'Unemployed' 'Retired']
+Imputed missing values: ['Income', 'Credit_Score', 'Loan_Balance']
